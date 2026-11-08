@@ -1,0 +1,19 @@
+# Konkretne skrypty do zignorowania
+/fix_vertex.py
+/fix_perf_and_crash.py
+/fix_vertex_buffer.py
+/fix_freeze.py
+/final_fix.py
+/add_noclip_camera.py
+/ultimate_fix.py
+/final_mesh_and_texture_fix.py
+/ultimate_voxel_fix.py
+/safe_fix.py
+/final_clean_fix.py
+/ultimate_aggressive_fix.py
+/final_string_replace_fix.py
+/update_cobblestone_shader.py
+/final_pixel_fix.py
+/fix_shader_max.py
+# Artefakty budowania
+/build/
